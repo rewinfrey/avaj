@@ -10,6 +10,8 @@ import java.net.URL;
 
 
 
+
+
 public class FreqTableExampleOriginal {
 
     public static final int NUM_ASCII_CHAR = 128;
